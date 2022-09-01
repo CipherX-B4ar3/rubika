@@ -1,4 +1,5 @@
 apt install python3.9
+pkg install python3.9
 apt update
 python -m pip install --upgrade pip
 pip install aiohttp
