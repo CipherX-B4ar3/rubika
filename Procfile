@@ -1,0 +1,1 @@
+cli: python bot.py

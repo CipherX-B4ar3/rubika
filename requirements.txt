@@ -1,0 +1,5 @@
+aiohttp
+requests
+pycryptodome
+opencv-python
+googletrans
