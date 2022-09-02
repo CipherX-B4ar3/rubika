@@ -29,6 +29,12 @@
 ( .help ) 
 رو ارسال کنید تا دستورات رو ببینید :)
 
+# Enemy Settings
+
+```
+** open File Enemy/Fosh Edit Text
+```
+
 
 مشکلی بود پی بگین
 
