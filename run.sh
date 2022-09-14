@@ -1,5 +1,6 @@
 apt update
-python -m pip install --upgrade pip
+pkg install python
+pip install -U pip
 pip install aiohttp
 pip install requests
 pip install sqlite3
