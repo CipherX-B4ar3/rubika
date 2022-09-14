@@ -12,7 +12,7 @@
 
 # نصب 
 
-* python3.10 Version *
+* python==3.10 Version 
 
 ```git clone https://github.com/CipherX-B4ar3/rubika```
 
