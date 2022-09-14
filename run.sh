@@ -7,7 +7,6 @@ pip install traceback
 pip install io
 pip install sys
 pip install bs4
-pip install selfCipherX
 pip install pycryptodome
 apt update
 clear
