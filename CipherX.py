@@ -53,7 +53,7 @@ run      = []
 async def main():
     #session = stringSession.StringSession()
     #session.insert(auth='auth', guid=None, user_agent=None, phone_number=None)
-    async with Client(session='self-bot1') as client:
+    async with Client(session='CipherX-SELF') as client:
         @client.on(handlers.MessageUpdates())
         async def self(event):
             text = event.raw_text
