@@ -16,7 +16,7 @@ import pytz
 from bs4 import BeautifulSoup
 from PIL import Image, ImageDraw, ImageFont
 from requests import get
-from selfCipherX import Client, handlers, methods, models
+from rubika import Client, handlers, methods, models
 
 # اسکی حرام
 
