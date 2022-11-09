@@ -52,7 +52,7 @@ run      = []
 
 async def main():
     #session = stringSession.StringSession()
-    #session.insert(auth='olfviqqyfdeofwesoeiztqjuzquqrfct', guid=None, user_agent=None, phone_number=None)
+    #session.insert(auth='auth', guid=None, user_agent=None, phone_number=None)
     async with Client(session='self-bot1') as client:
         @client.on(handlers.MessageUpdates())
         async def self(event):
