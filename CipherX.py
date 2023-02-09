@@ -77,6 +77,7 @@ async def main():
 
 𝑃𝐼𝑁𝐺 ↬ {url2} 𝘔𝘴
 """
+                        await event.reply(help_text)
                     except:
                         pass
                 if text == ".mode" and guid == admins:
