@@ -17,16 +17,10 @@ from bs4 import BeautifulSoup
 from PIL import Image, ImageDraw, ImageFont
 from requests import get
 from rubika import Client, handlers, methods, models
-
-# اسکی حرام
-
-# کس ننت اسکی بری 
-
-# ساخته شده توسط CipherX
-
+ 
 # Rubika : @CipherX
 
-# Telegram : None
+# Telegram : @EBLETSM
 
 
 logging.basicConfig(level=logging.ERROR)
